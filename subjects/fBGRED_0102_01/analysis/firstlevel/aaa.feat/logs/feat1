@@ -1,0 +1,13 @@
+
+/bin/cp /tmp/feat_viSo0B.fsf design.fsf
+
+mkdir .files;cp /usr/local/fsl/doc/fsl.css .files;cp -r /usr/local/fsl/doc/images .files/images
+
+/usr/local/fsl/bin/fsl_sub -T 10 -l logs -N feat0_init   /usr/local/fsl/bin/feat /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/analysis/firstlevel/aaa.feat/design.fsf -D /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/analysis/firstlevel/aaa.feat -I 1 -init
+24820
+
+/usr/local/fsl/bin/fsl_sub -T 46 -l logs -N feat2_pre -j 24820  /usr/local/fsl/bin/feat /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/analysis/firstlevel/aaa.feat/design.fsf -D /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/analysis/firstlevel/aaa.feat -I 1 -prestats
+24897
+
+/usr/local/fsl/bin/fsl_sub -T 1 -l logs -N feat5_stop -j 24897  /usr/local/fsl/bin/feat /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/analysis/firstlevel/aaa.feat/design.fsf -D /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/analysis/firstlevel/aaa.feat -stop
+25922

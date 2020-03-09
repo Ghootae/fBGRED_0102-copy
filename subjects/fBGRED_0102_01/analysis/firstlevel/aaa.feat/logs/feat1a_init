@@ -1,0 +1,6 @@
+</pre><hr>Initialisation<br><pre>
+
+/usr/local/fsl/bin/fslmaths /Users/ghootaekim/fMRI_analysis/fBGRED_0102/subjects/fBGRED_0102_01/data/nifti/fBGRED_0102_01_fs01 prefiltered_func_data -odt float
+Total original volumes = 168
+
+/usr/local/fsl/bin/fslroi prefiltered_func_data example_func 84 1
