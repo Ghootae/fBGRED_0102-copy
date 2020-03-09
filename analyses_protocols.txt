@@ -1,0 +1,36 @@
+0. Timing info.
+clear all;clc;rmpath('scripts/');cd ../fBGRED_0102_03/; addpath('scripts/'); [subj path] = path_setting; gen_design(path);
+
+1. Face/scene localizer
+1) bash scripts/render-fsf-templates_FS.sh
+2) bash scripts/FS.sh
+
+2. Picking up FFA and PPA ROIs
+1) rFFA, rPPA.txt - xyz info.
+2) bash scripts/ffa_ppa_ROIs.sh
+
+3. Running GLMs
+1) bash scripts/render-fsf-templates_main_SinQsSamDiff.sh; bash scripts/main_SinQsSamDiff.sh
+2) bash scripts/render-fsf-templates_bgc.sh; bash scripts/bgc.sh
+3) bash scripts/render-fsf-templates_bgq.sh; bash scripts/bgq.sh
+
+4. Alignment
+1) bash scripts/align_main_SinQsSamDiff_zpat2std.sh
+2) bash scripts/align_BGCQ_res2std.sh 
+ 
+
+3. Visual redundancy
+1) getROIs_index(path);
+2) main_visRes(path);
+
+4. Background connectivity
+1) bgc_connectivity(path);
+2) bgq_connectivity(path);
+
+5. Connecting BG values to visual redundancy
+1) main_visRes_bgcMedSplit(path)
+2) main_visRes_bgqMedSplit(path)
+
+
+
+

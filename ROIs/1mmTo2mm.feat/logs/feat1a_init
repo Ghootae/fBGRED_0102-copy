@@ -1,0 +1,6 @@
+</pre><hr>Initialisation<br><pre>
+
+/usr/local/fsl/bin/fslmaths /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/MNI152_T1_1mm_brain prefiltered_func_data -odt float
+Total original volumes = 1
+
+/usr/local/fsl/bin/fslroi prefiltered_func_data example_func 0 1

@@ -1,0 +1,1 @@
+../../../prototype/link/scripts/align_BGCQ_res2std.sh

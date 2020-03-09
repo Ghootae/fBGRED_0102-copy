@@ -1,0 +1,7 @@
+0. fBGRED_0102_01: didn't run FS and MR second runs
+
+1. FFA roi
+- check FS localizer: fBGRED_0102_01, fBGRED_0102_07
+- missing FFA coordinate
+
+2. fBGRED_0102_15 missing: 조유빈, 15 Jul, 2019, 도중에 움직여서 취소

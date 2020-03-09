@@ -1,0 +1,1 @@
+../../../prototype/link/scripts/bgq_connectivity.m

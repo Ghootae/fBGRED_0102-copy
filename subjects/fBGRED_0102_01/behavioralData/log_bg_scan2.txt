@@ -1,0 +1,294 @@
+01_kjw	 kjw
+started at 08-May-2019 11:49:38
+------------
+scan:2	 blk:1	 xUpCate:2	 trial:1	 onset:0.1065	 plan:0.0000	 recorded:0	 xQuad:2	 xCatch:0	 xImgID:86	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:2	 onset:1.5006	 plan:1.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:42	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:3	 onset:3.0011	 plan:3.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:135	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:4	 onset:4.5011	 plan:4.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:61	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:5	 onset:6.0013	 plan:6.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:84	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:6	 onset:7.5130	 plan:7.5000	 recorded:1	 xQuad:2	 xCatch:1	 xImgID:84	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:7	 onset:9.0012	 plan:9.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:19	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:8	 onset:10.5100	 plan:10.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:32	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:9	 onset:12.0016	 plan:12.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:76	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:10	 onset:13.5026	 plan:13.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:6	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:11	 onset:15.0130	 plan:15.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:24	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:1	 xUpCate:2	 trial:12	 onset:16.5177	 plan:16.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:51	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:13	 onset:27.0148	 plan:27.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:119	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:14	 onset:28.5198	 plan:28.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:16	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:15	 onset:30.0129	 plan:30.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:104	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:16	 onset:31.5175	 plan:31.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:114	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:17	 onset:33.0109	 plan:33.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:48	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:18	 onset:34.5148	 plan:34.5000	 recorded:1	 xQuad:3	 xCatch:1	 xImgID:48	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:19	 onset:36.0076	 plan:36.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:144	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:20	 onset:37.5130	 plan:37.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:99	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:21	 onset:39.0049	 plan:39.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:35	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:22	 onset:40.5226	 plan:40.5000	 recorded:1	 xQuad:3	 xCatch:1	 xImgID:35	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:23	 onset:42.0031	 plan:42.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:142	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:2	 xUpCate:2	 trial:24	 onset:43.5062	 plan:43.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:71	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:25	 onset:54.0058	 plan:54.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:41	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:26	 onset:55.5104	 plan:55.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:140	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:27	 onset:57.0073	 plan:57.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:89	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:28	 onset:58.5200	 plan:58.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:37	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:29	 onset:60.0081	 plan:60.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:36	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:30	 onset:61.5182	 plan:61.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:126	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:31	 onset:63.0083	 plan:63.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:72	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:32	 onset:64.5158	 plan:64.5000	 recorded:1	 xQuad:4	 xCatch:1	 xImgID:72	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:33	 onset:66.0091	 plan:66.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:39	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:34	 onset:67.5140	 plan:67.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:105	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:35	 onset:69.0065	 plan:69.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:79	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:3	 xUpCate:2	 trial:36	 onset:70.5090	 plan:70.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:40	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:37	 onset:81.0094	 plan:81.0000	 recorded:1	 xQuad:1	 xCatch:1	 xImgID:40	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:38	 onset:82.5131	 plan:82.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:14	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:39	 onset:84.0071	 plan:84.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:56	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:40	 onset:85.5115	 plan:85.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:133	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:41	 onset:87.0115	 plan:87.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:82	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:42	 onset:88.5108	 plan:88.5000	 recorded:1	 xQuad:1	 xCatch:1	 xImgID:82	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:43	 onset:90.0257	 plan:90.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:9	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:44	 onset:91.5116	 plan:91.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:15	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:45	 onset:93.0116	 plan:93.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:28	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:46	 onset:94.5121	 plan:94.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:103	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:47	 onset:96.0094	 plan:96.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:74	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:4	 xUpCate:2	 trial:48	 onset:97.5125	 plan:97.5000	 recorded:1	 xQuad:1	 xCatch:1	 xImgID:74	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:49	 onset:108.0115	 plan:108.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:121	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:50	 onset:109.5139	 plan:109.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:33	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:51	 onset:111.0214	 plan:111.0000	 recorded:1	 xQuad:2	 xCatch:1	 xImgID:33	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:52	 onset:112.5146	 plan:112.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:90	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:53	 onset:114.0065	 plan:114.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:115	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:54	 onset:115.5122	 plan:115.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:53	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:55	 onset:117.0150	 plan:117.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:116	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:56	 onset:118.5141	 plan:118.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:2	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:57	 onset:120.0142	 plan:120.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:128	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:58	 onset:121.5150	 plan:121.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:137	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:59	 onset:123.0111	 plan:123.0000	 recorded:1	 xQuad:2	 xCatch:1	 xImgID:137	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:5	 xUpCate:2	 trial:60	 onset:124.5155	 plan:124.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:67	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:61	 onset:135.0162	 plan:135.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:120	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:62	 onset:136.5165	 plan:136.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:129	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:63	 onset:138.0115	 plan:138.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:46	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:64	 onset:139.5173	 plan:139.5000	 recorded:1	 xQuad:3	 xCatch:1	 xImgID:46	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:65	 onset:141.0177	 plan:141.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:66	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:66	 onset:142.5139	 plan:142.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:44	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:67	 onset:144.0171	 plan:144.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:60	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:68	 onset:145.5127	 plan:145.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:47	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:69	 onset:147.0172	 plan:147.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:57	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:70	 onset:148.5104	 plan:148.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:94	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:71	 onset:150.0019	 plan:150.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:64	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:6	 xUpCate:2	 trial:72	 onset:151.5183	 plan:151.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:23	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:73	 onset:162.0170	 plan:162.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:34	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:74	 onset:163.5200	 plan:163.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:83	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:75	 onset:165.0204	 plan:165.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:136	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:76	 onset:166.5197	 plan:166.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:73	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:77	 onset:168.0202	 plan:168.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:26	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:78	 onset:169.5170	 plan:169.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:138	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:79	 onset:171.0104	 plan:171.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:77	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:80	 onset:172.5153	 plan:172.5000	 recorded:1	 xQuad:4	 xCatch:1	 xImgID:77	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:81	 onset:174.0194	 plan:174.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:5	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:82	 onset:175.5132	 plan:175.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:80	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:83	 onset:177.0172	 plan:177.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:69	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:7	 xUpCate:2	 trial:84	 onset:178.5098	 plan:178.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:59	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:85	 onset:189.0200	 plan:189.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:81	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:86	 onset:190.5123	 plan:190.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:109	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:87	 onset:192.0170	 plan:192.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:107	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:88	 onset:193.5103	 plan:193.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:93	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:89	 onset:195.0238	 plan:195.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:17	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:90	 onset:196.5200	 plan:196.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:123	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:91	 onset:198.0238	 plan:198.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:96	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:92	 onset:199.5173	 plan:199.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:4	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:93	 onset:201.0225	 plan:201.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:117	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:94	 onset:202.5247	 plan:202.5000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:91	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:95	 onset:204.0200	 plan:204.0000	 recorded:1	 xQuad:4	 xCatch:0	 xImgID:65	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:8	 xUpCate:2	 trial:96	 onset:205.5074	 plan:205.5000	 recorded:1	 xQuad:4	 xCatch:1	 xImgID:65	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:97	 onset:216.0231	 plan:216.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:131	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:98	 onset:217.5151	 plan:217.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:27	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:99	 onset:219.0200	 plan:219.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:8	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:100	 onset:220.5138	 plan:220.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:31	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:101	 onset:222.0183	 plan:222.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:75	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:102	 onset:223.5224	 plan:223.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:85	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:103	 onset:225.0271	 plan:225.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:130	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:104	 onset:226.5102	 plan:226.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:38	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:105	 onset:228.0253	 plan:228.0000	 recorded:1	 xQuad:1	 xCatch:1	 xImgID:38	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:106	 onset:229.5104	 plan:229.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:52	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:107	 onset:231.0224	 plan:231.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:110	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:9	 xUpCate:2	 trial:108	 onset:232.5109	 plan:232.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:100	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:109	 onset:243.0128	 plan:243.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:87	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:110	 onset:244.5178	 plan:244.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:78	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:111	 onset:246.0108	 plan:246.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:7	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:112	 onset:247.5159	 plan:247.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:63	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:113	 onset:249.0122	 plan:249.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:43	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:114	 onset:250.5127	 plan:250.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:101	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:115	 onset:252.0183	 plan:252.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:55	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:116	 onset:253.5116	 plan:253.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:111	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:117	 onset:255.0284	 plan:255.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:106	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:118	 onset:256.5211	 plan:256.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:25	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:119	 onset:258.0131	 plan:258.0000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:21	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:10	 xUpCate:2	 trial:120	 onset:259.5134	 plan:259.5000	 recorded:1	 xQuad:2	 xCatch:0	 xImgID:139	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:121	 onset:270.0169	 plan:270.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:112	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:122	 onset:271.5149	 plan:271.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:12	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:123	 onset:273.0155	 plan:273.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:127	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:124	 onset:274.5150	 plan:274.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:11	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:125	 onset:276.0155	 plan:276.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:58	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:126	 onset:277.5285	 plan:277.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:50	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:127	 onset:279.0159	 plan:279.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:30	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:128	 onset:280.5157	 plan:280.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:141	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:129	 onset:282.0170	 plan:282.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:13	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:130	 onset:283.5120	 plan:283.5000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:113	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:131	 onset:285.0169	 plan:285.0000	 recorded:1	 xQuad:1	 xCatch:0	 xImgID:122	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:11	 xUpCate:2	 trial:132	 onset:286.5170	 plan:286.5000	 recorded:1	 xQuad:1	 xCatch:1	 xImgID:122	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:133	 onset:297.0178	 plan:297.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:88	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:134	 onset:298.5186	 plan:298.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:134	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:135	 onset:300.0174	 plan:300.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:45	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:136	 onset:301.5181	 plan:301.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:3	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:137	 onset:303.0195	 plan:303.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:108	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:138	 onset:304.5193	 plan:304.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:1	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:139	 onset:306.0120	 plan:306.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:29	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:140	 onset:307.5169	 plan:307.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:68	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:141	 onset:309.0199	 plan:309.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:118	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:142	 onset:310.5193	 plan:310.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:22	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:143	 onset:312.0196	 plan:312.0000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:143	 response:NaN	 rt:0.0000	 accuracy:0
+
+scan:2	 blk:12	 xUpCate:2	 trial:144	 onset:313.5201	 plan:313.5000	 recorded:1	 xQuad:3	 xCatch:0	 xImgID:62	 response:NaN	 rt:0.0000	 accuracy:0
+
+Ended at 08-May-2019 11:55:11
+------------
+

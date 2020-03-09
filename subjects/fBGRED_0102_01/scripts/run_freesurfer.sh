@@ -1,0 +1,1 @@
+../../../prototype/link/scripts/run_freesurfer.sh

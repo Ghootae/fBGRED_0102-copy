@@ -1,0 +1,13 @@
+
+/bin/cp /tmp/feat_HvWQ25.fsf design.fsf
+
+mkdir .files;cp /usr/local/fsl/doc/fsl.css .files;cp -r /usr/local/fsl/doc/images .files/images
+
+/usr/local/fsl/bin/fsl_sub -T 10 -l logs -N feat0_init   /usr/local/fsl/bin/feat /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/1mmTo2mm.feat/design.fsf -D /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/1mmTo2mm.feat -I 1 -init
+73827
+
+/usr/local/fsl/bin/fsl_sub -T 30 -l logs -N feat2_pre -j 73827  /usr/local/fsl/bin/feat /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/1mmTo2mm.feat/design.fsf -D /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/1mmTo2mm.feat -I 1 -prestats
+73904
+
+/usr/local/fsl/bin/fsl_sub -T 1 -l logs -N feat5_stop -j 73904  /usr/local/fsl/bin/feat /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/1mmTo2mm.feat/design.fsf -D /Users/ghootaekim/fMRI_analysis/fBGRED_0101/ROIs/1mmTo2mm.feat -stop
+74558
